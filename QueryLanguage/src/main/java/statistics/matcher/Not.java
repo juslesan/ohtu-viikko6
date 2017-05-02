@@ -2,10 +2,6 @@ package statistics.matcher;
 
 import statistics.Player;
 
-/**
- *
- * @author eekuurne
- */
 public class Not implements Matcher {
 
     private Matcher[] matchers;

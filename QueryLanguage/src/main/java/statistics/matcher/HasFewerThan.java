@@ -3,10 +3,6 @@ package statistics.matcher;
 import java.lang.reflect.Method;
 import statistics.Player;
 
-/**
- *
- * @author eekuurne
- */
 public class HasFewerThan implements Matcher {
     
     private int value;

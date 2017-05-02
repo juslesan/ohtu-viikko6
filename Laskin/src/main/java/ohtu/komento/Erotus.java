@@ -3,10 +3,7 @@ package ohtu.komento;
 import javax.swing.JTextField;
 import ohtu.Sovelluslogiikka;
 
-/**
- *
- * @author eekuurne
- */
+
 public class Erotus implements Komento {
 
     Sovelluslogiikka sovellus;

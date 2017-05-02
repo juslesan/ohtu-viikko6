@@ -1,9 +1,6 @@
 package statistics.matcher;
 
-/**
- *
- * @author eekuurne
- */
+
 public class QueryBuilder {
     
     Matcher matcher;

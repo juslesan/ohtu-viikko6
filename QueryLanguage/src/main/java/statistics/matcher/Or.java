@@ -2,10 +2,6 @@ package statistics.matcher;
 
 import statistics.Player;
 
-/**
- *
- * @author eekuurne
- */
 public class Or implements Matcher {
 
     private Matcher[] matchers;
